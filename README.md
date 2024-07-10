@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Tarunoday111/Tarunoday111/blob/main/snake%2Cyml" alt="Snake animation" />
+<img src="https://github.com/Tarunoday111/Tarunoday111/output/snake.svg" alt="Snake animation" />
 
 ###
