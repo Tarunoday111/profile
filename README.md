@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src=".github/workflows/snake.yml" alt="Snake animation" />
+<img src="[.github/workflows/snake.yml](https://github.com/Tarunoday111/Tarunoday111/blob/main/.github/workflows/snake.yml)" alt="Snake animation" />
 
 ###
