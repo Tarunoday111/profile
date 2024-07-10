@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Tarunoday Panday and I'm a Web Developer,Ui/Ux Designer.</h3>
+<h3 align="center">Hi 👋! My name is Tarunoday Panday and I'm a Web Developer, Ui/Ux Designer.</h3>
 
 ###
 
@@ -13,10 +13,10 @@
   <a href="https://www.instagram.com/btwitstarun_19/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
+  <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/tarunoday-prasad-panday-6b04b9266" target="_blank">
+  <a href="https://www.linkedin.com/in/tarunoday-prasad-panday-6b04b9266" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -65,6 +65,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tarunoday111/tarunoday111/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/tarunoday111/portfolio/blob/output/snake.svg)
 
 ###
