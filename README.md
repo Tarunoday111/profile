@@ -66,9 +66,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-![Snake animation](https://github.com/Tarunoday111/Tarunoday111/blob/output/snake.svg)
-
-###
