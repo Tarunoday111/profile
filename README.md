@@ -65,6 +65,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/tarunoday111/portfolio/blob/output/snake.svg)
+![Snake animation](https://github.com/Tarunoday111/Tarunoday111/blob/output/snake.svg)
 
 ###
